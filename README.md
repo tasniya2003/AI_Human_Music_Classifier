@@ -18,10 +18,10 @@ The model extracts symbolic features (notes, tempo, duration, pitch) and uses th
 - Tkinter (GUI)
 
 ## Dataset
-A dataset of **80 MIDI files**:
+A dataset of 80 MIDI files:
 - 40 Human-composed
 - 40 AI-generated
-A small sample dataset is included in `data.zip`
+- A small sample dataset is included in `data.zip`
 
 ## Results
 <img width="215" height="94" alt="{C2F41569-9FB2-4BF8-BD88-1BA8FD2CB236}" src="https://github.com/user-attachments/assets/e26be8f4-024c-4f09-980e-5e1a1d47b018" />
